@@ -1,0 +1,48 @@
+#bookings {
+    display: flex;
+    justify-content: space-around;
+}
+#details {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#bands {
+    margin: 0 2rem;
+    border: 1px dotted goldenrod;
+}
+
+.eachband {
+    margin: 0 2rem;
+    padding: 1rem;
+    border: 1px dotted pink
+}
+
+ul.eachband {
+    list-style-type: none;
+}
+
+#venues {
+    margin: 0 2rem;
+    border: 1px dotted goldenrod;
+}
+
+.eachvenue {
+    margin: 0 2rem;
+    padding: 1rem;
+    border: 1px dotted pink
+}
+
+ul.eachvenue {
+    list-style-type: none;
+}
+
+/*.detail--column {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dotted goldenrod;
+}
+
+.assignments {
+    padding: 1rem 5rem;
+}*/
